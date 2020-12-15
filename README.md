@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mohit Gupta 👋</h1>
-<h3 align="center">An Imperfect Developer</h3>
+<h1 align="center">Hi there, I'm Mohit Gupta 👋</h1>
+<h3 align="center">An Imperfect Programmer</h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=themohitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="themohitgupta" />
