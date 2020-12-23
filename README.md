@@ -33,7 +33,7 @@ Languages and Tools:
 <a href="https://www.docker.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docket" width="40" height="40"/> </a> 
 
 </p>
-
+<!-- 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themohitgupta&show_icons=true&locale=en&layout=compact" alt="themohitgupta" />
 </p>
@@ -41,3 +41,4 @@ Languages and Tools:
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themohitgupta&show_icons=true&locale=en" alt="themohitgupta" >
 </p>
+-->
