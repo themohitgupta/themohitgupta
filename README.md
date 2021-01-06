@@ -11,10 +11,10 @@
 
 connect with me
 
-<a href="https://twitter.com/themohitgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="themohitgupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/themohitgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="themohitgupta" height="30" width="40" /></a>
-<a href="https://fb.com/itsmohitgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="itsmohitgupta" height="30" width="40" /></a>
-<a href="https://instagram.com/themohitguptaa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="themohitguptaa_" height="30" width="40" /></a>
+<a href="https://twitter.com/themohitgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="themohitgupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/themohitgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="themohitgupta" height="30" width="40" /></a>
+<a href="https://fb.com/itsmohitgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="itsmohitgupta" height="30" width="40" /></a>
+<a href="https://instagram.com/themohitgupta_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="themohitgupta_" height="30" width="40" /></a>
 
 <br>
 
