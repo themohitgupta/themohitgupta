@@ -6,7 +6,7 @@
 </p>
 
 - 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
-- 🥅 2021 Goals: Master Java and React, Complete MERN Stack and Android Development. Contribute to Open Source projects.
+<!-- - 🥅 2022 Goals: Master Java and React, Complete MERN Stack and Android Development. Contribute to Open Source projects. -->
 - ⚡ Fun fact I am a Casual Gamer
 
 connect with me
