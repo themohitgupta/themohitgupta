@@ -1,13 +1,20 @@
 <h1 align="center">Hi there, I'm Mohit Gupta 👋</h1>
 <h3 align="center">An Imperfect Programmer</h3>
 
+
+
 <p align="left"> 
-<!--<img src="https://komarev.com/ghpvc/?username=themohitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="themohitgupta" />-->
+<img src="https://komarev.com/ghpvc/?username=themohitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="themohitgupta"/>
 </p>
 
-- 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
-<!-- - 🥅 2022 Goals: Master Java and React, Complete MERN Stack and Android Development. Contribute to Open Source projects. -->
+
+
+- 📚 I’m currently Attending a Bootcamp on Full Stack JavaScript Bootcamp organized by ineuron.ai and Mentored Hitesh Choudhary sir.
+<!-- - 📚 I’m currently learning React, Javascript, Nodejs and Firebase. -->
+- 🥅 2022 Goals: Master Java and Full Stack JavaScript, Contribute to Open Source projects.
 - ⚡ Fun fact I am a Casual Gamer
+
+---
 
 connect with me
 
@@ -17,6 +24,8 @@ connect with me
 <a href="https://instagram.com/themohitgupta_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="themohitgupta_" height="30" width="40" /></a>
 
 <br>
+
+---
 
 Languages and Tools:
 
@@ -36,7 +45,9 @@ Languages and Tools:
 <a href="#" target="_blank"> <img src="images/visualstudio.svg" alt="git" width="40" height="40"/> </a>
 
 </p>
-<!-- 
+
+---
+
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themohitgupta&show_icons=true&locale=en&layout=compact" alt="themohitgupta" />
 </p>
@@ -44,4 +55,3 @@ Languages and Tools:
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themohitgupta&show_icons=true&locale=en" alt="themohitgupta" >
 </p>
--->
