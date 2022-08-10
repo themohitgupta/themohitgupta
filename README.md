@@ -9,14 +9,13 @@
 
 
 
-- 📚 I’m currently Attending a Bootcamp on Full Stack JavaScript Bootcamp organized by ineuron.ai and Mentored Hitesh Choudhary sir.
+- 📚 I’m currently Attending a Bootcamp on **Full Stack JavaScript Developer**Bootcamp organized by **ineuron.ai** and Mentored **Hitesh Choudhary** sir.
 <!-- - 📚 I’m currently learning React, Javascript, Nodejs and Firebase. -->
 - 🥅 2022 Goals: Master Java and Full Stack JavaScript, Contribute to Open Source projects.
 - ⚡ Fun fact I am a Casual Gamer
 
 ---
-
-connect with me
+#### connect with me
 
 <a href="https://twitter.com/themohitgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="themohitgupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/themohitgupta" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="themohitgupta" height="30" width="40" /></a>
@@ -27,7 +26,7 @@ connect with me
 
 ---
 
-Languages and Tools:
+#### Languages and Tools:
 
 <p align="left"> 
 
